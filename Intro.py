@@ -26,10 +26,10 @@ with col1:
  st.write(f"Texto a voz: [Enlace]({url})")
 
  st.subheader("Reconocimiento de Objetos")
- image = Image.open('txt_to_audio.png')
+ image = Image.open('clase2.png')
  st.image(image, width=200)
  st.write("En la siguiente enlace veremos como se detectan objetos en Imágenes.") 
- url = "https://yolov5cmc.streamlit.app/"
+ url = "https://computoavanzada-ddvhmauwtqruf9eyphgq8q.streamlit.app/"
  st.write(f"YOLO: [Enlace]({url})")
 
  st.subheader("Entrenando Modelos")
