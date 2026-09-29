@@ -33,48 +33,48 @@ with col1:
  st.write(f"YOLO: [Enlace]({url})")
 
  st.subheader("Lógica, Big-O y Vectorización")
- image = Image.open('OIG5.jpg')
+ image = Image.open('clase3.png')
  st.image(image, width=200)
  st.write("En la siguiente enlace veremos como puedes usar tu modelo entrenado.") 
- url = "https://xn3pg24ztuv6fdiqon8qn3.streamlit.app/"
+ url = "https://computoavanzada-69zzphwzxzdh2viahi9r7p.streamlit.app/"
  st.write(f"YOLO: [Enlace]({url})")
 
 with col2: 
  st.subheader("Preparación de datos")
- image = Image.open('OIG8.jpg')
+ image = Image.open('clase4.png')
  st.image(image, width=200)
  st.write("En la siguiente veremos una aplicación que usa la conversión de voz a texto.") 
- url = "https://traductorw.streamlit.app/"
+ url = "https://computoavanzada-sq8w4ad2m2xd9uyw2uorvk.streamlit.app/"
  st.write(f"Voz a texto: [Enlace]({url})")
 
  st.subheader("Aplicación Preparación de datos")
- image = Image.open('data_analisis.png')
+ image = Image.open('clase5.png')
  st.image(image, width=190)
  st.write("En la siguiente enlace veremos como se pueden analizar datos usando agentes.") 
- url = "https://dataagente.streamlit.app/"
+ url = "https://portafolio-de-computacion-avanzada-cgafnbkkxywuvdz7tvqml4.streamlit.app/"
  st.write(f"Datos: [Enlace]({url})")
 
  st.subheader("Regresión Lineal")
- image = Image.open('OIG3.jpg')
+ image = Image.open('clase6.png')
  st.image(image, width=200)
  st.write("En la siguiente enlace veremos como realizamos transcripciones de audio/video.") 
- url = "https://transcript-whisper.streamlit.app/"
+ url = "https://computoavanzada-ku2n8rwpqjra8h45t9ujvs.streamlit.app/"
  st.write(f"Transcriptor: [Enlace]({url})")
 
 
 with col3: 
  st.subheader("Series de Tiempo")
- image = Image.open('Chat_pdf.png')
+ image = Image.open('clase7.png')
  st.image(image, width=190)
  st.write("En la siguiente veremos una aplicación que usa RAG a partir de un documento (PDF).") 
- url = "https://chatpdf-cc.streamlit.app/"
+ url = "https://computoavanzada-dsog93gtgg3h9dh89rckmy.streamlit.app/"
  st.write(f"RAG: [Enlace]({url})")
 
  st.subheader("Predicción y modelado de la calidad de aire")
- image = Image.open('OIG4.jpg')
+ image = Image.open('clase8.png')
  st.image(image, width=200)
  st.write("En la siguiente enlace veremos la capacidad de análisis en Imágenes.") 
- url = "https://vision2-gpt4o.streamlit.app/"
+ url = "https://computoavanzada-hmnrlfnkxatgwdkxj5snp2.streamlit.app/"
  st.write(f"Vision: [Enlace]({url})")
  
  st.subheader("Prediccion de sensacion termica con lot")
@@ -87,10 +87,10 @@ with col3:
 
 with col4: 
  st.subheader("De la regresión lineal a la logísitica")
- image = Image.open('Chat_pdf.png')
+ image = Image.open('clase10.png')
  st.image(image, width=190)
  st.write("En la siguiente veremos una aplicación que usa RAG a partir de un documento (PDF).") 
- url = "https://chatpdf-cc.streamlit.app/"
+ url = "https://computoavanzada-c7c3fmtonr6qqds9ypqbck.streamlit.app/"
  st.write(f"RAG: [Enlace]({url})")
 
  st.subheader("Clasificación Knn")
@@ -101,9 +101,9 @@ with col4:
  st.write(f"Vision: [Enlace]({url})")
  
  st.subheader("Aplicación Knn Clasificación de fertilidad de  suelos")
- image = Image.open('OIG6.jpg')
+ image = Image.open('clase12.png')
  st.image(image, width=200)
  st.write("En la siguiente enlace veremos la capacidad de interacción con el mundo físico.") 
- url = "https://vision2-gpt4o.streamlit.app/"
+ url = "https://computoavanzada-qqzzvlpfvvvelr4ksdhtkl.streamlit.app/"
  st.write(f"Vision: [Enlace]({url})")
 
